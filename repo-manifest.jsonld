@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/molmo-motion/commit/ab7c5f4e7c49359e4275e9a9b21a59659be17386",
       "git:hexsha": "ab7c5f4e7c49359e4275e9a9b21a59659be17386",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:40:14.806986+00:00"
     }
   ]
 }
