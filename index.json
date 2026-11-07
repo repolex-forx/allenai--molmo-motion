@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "molmo-motion",
+  "versions": [
+    {
+      "commit": "ab7c5f4e7c49359e4275e9a9b21a59659be17386",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:40:14.807448+00:00"
+    }
+  ]
+}
